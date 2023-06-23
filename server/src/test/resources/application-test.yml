@@ -1,0 +1,2 @@
+logging.level.com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.wire: OFF
+logging.level.com.github.dockerjava: OFF
